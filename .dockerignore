@@ -1,0 +1,11 @@
+.git/
+.pytest_cache/
+__pycache__/
+public/
+public_collected/
+
+.coverage
+.dockerignore
+.env*
+!.env.example
+docker-compose.override.yml
