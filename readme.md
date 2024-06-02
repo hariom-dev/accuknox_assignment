@@ -1,7 +1,7 @@
 
 # Accuknox Assignment for social application API
 
-##Setup
+## Setup
 
 The first thing to do is to clone the repository:
 
